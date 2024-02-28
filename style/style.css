@@ -151,6 +151,7 @@ h1{
 @media (min-width:992px) {
     .row {
         color: white;
+
     }
     .box{
         width: 28.5%; 
@@ -276,7 +277,3 @@ h1{
         margin: 20px 10px 15px 10px;
     }
 }
-
-
-
-
